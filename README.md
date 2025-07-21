@@ -45,7 +45,7 @@ It includes core features like user authentication, product CRUD, cart handling,
 `bash
 
 # 1. Clone the repo
-git clone https://github.com/your-username/ecommerce-api.git
+git clone [https://github.com/Basma272/E-Commerce.git]
 
 # 2. Install dependencies
 npm install
