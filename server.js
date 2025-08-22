@@ -32,7 +32,7 @@ app.use("/api/upload", uploadRoutes );
 
 //  Test Route
 app.get("/", (req, res) => {
-  res.send("🚀 Welcome to Rabbit Task Manager API!");
+  res.send("🚀 Welcome to Our E-Commerce API!");
 });
 
 //  Global Error Handler
