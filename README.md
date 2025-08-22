@@ -97,6 +97,8 @@ src/
 ---
 
  API Endpoints Overview
+ Deployed on Railway
+ https://e-commerce-production-f63d.up.railway.app/
 
 ✅ Auth
 
@@ -154,7 +156,8 @@ GET /api/orders Get user orders
 GET /api/orders/:id Get single order
 
 
-
+upload image
+POST /api/upload
 ---
 
 ⚠️ Notes
